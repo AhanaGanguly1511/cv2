@@ -1,0 +1,57 @@
+body{
+    font-family: cursive;
+    margin: 0%;
+    background-color: #f4f9f9;
+    height: 2500px;
+}
+
+
+.navbar
+{ 
+    background-color: #a4ebf3;
+    position: fixed;
+    width: 100%;
+    height: 50px;
+    top: 0px;
+}
+.links
+{
+    position: absolute;
+    top:0%;
+    left: 50%;
+}
+.hov:hover
+{
+    color: #aaaaaa;
+    text-decoration-line: underline;
+}
+.lin{
+    position: relative;
+    top: 14px;
+    text-decoration-line: none;
+    text-decoration-style: solid;
+    color: #fffafa;
+    font-size:  25px;
+    padding-right: 15px;
+}
+.snow
+{
+    height: 15%;
+    width:  15%;
+}
+.top-snow
+{   
+    padding-top:5%;
+    position: relative;
+    right:26%;
+}
+.bottom-snow
+{
+    position:relative;
+    left:14%
+}
+.me
+{
+    position:relative;
+    left:8%;
+}
