@@ -111,3 +111,21 @@ body{
     border-top-style: dotted;
     color: #695b83;
 }
+.code
+{
+    height: 300px;
+    width:300px;
+    position: absolute;
+    top:1900px;
+    left:10%;
+}
+.interest
+{
+    width:50%;
+    position:absolute;
+    top:2000px;
+    left:35%;
+    font-size: 250%;
+    color: #ed6663;
+    font-family: 'Caveat', cursive;  
+}
