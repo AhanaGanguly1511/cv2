@@ -82,3 +82,32 @@ body{
     border-top-style: dotted;
     color: #595b83;
 }
+.student
+{
+    height:200px;
+    width:200px;
+    position: absolute;
+    top:1500px;
+    left:70%;
+
+}
+.edu
+{   width:60%;
+    position:absolute;
+    top:1550px;
+    left:10%;
+    font-size: 300%;
+    color: #ed6663;
+    font-family: 'Caveat', cursive; 
+}
+.hline2
+{
+    position: absolute;
+    top:1700px;
+    left:33%;
+    width: 10%;
+    border-width:25px;
+    border-style:none;
+    border-top-style: dotted;
+    color: #695b83;
+}
