@@ -55,3 +55,30 @@ body{
     position:relative;
     left:8%;
 }
+.snowman
+{
+    position: absolute;
+    top:120%;
+    left:5%;
+    height:60%;
+    width: 30%;
+}
+.quote
+{
+    height:20%;width:40%;
+    position: absolute;
+    top:150%;
+    left: 40%;
+    font-size: 160%;
+    color:#f4abc4;
+    font-family: 'Merienda', cursive;
+    
+}
+.hline
+{   padding-top: 10%;
+    width: 20%;
+    border-width:20px;
+    border-style:none;
+    border-top-style: dotted;
+    color: #595b83;
+}
